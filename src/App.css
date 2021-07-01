@@ -32,6 +32,7 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+  display: block;
 }
 
 .contact {
@@ -40,5 +41,31 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 50px;
 }
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.Typewriter__wrapper {
+  font-size: 2.2em !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+.Typewriter__cursor {
+  font-size: 2.4em !important;
+  color: #ffffff !important;
+}
+
+@media (max-width: 767px) {
+  .Typewriter__wrapper {
+    font-size: 1.4em !important;
+    font-weight: 500 !important;
+    position: absolute !important;
+  }
+  .Typewriter__cursor {
+    display: none !important;
+  }
+}
+

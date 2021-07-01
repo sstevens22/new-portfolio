@@ -15,12 +15,7 @@ function Footer() {
         </p>
         <div className='input-areas'>
           <form>
-            <input
-              className='footer-input'
-              name='email'
-              type='email'
-              placeholder='Your Message'
-            />
+            
             <Button buttonStyle='btn--outline'>Send</Button>
           </form>
         </div>
@@ -35,46 +30,46 @@ function Footer() {
           </div>
           <small class='website-rights'>Sheldon Mitchell © 2021</small>
           <div class='social-icons'>
-            <Link
-              class='social-icon-link github'
-              to='https://github.com/sstevens22'
-              target='_blank'
-              aria-label='Git hub'
-            >
-              <i class='fab fa-github' />
-            </Link>
-            <Link
-              class='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
-            >
-              <i class='fab fa-instagram' />
-            </Link>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
-            >
-              <i class='fab fa-youtube' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <i class='fab fa-twitter' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <i class='fab fa-linkedin' />
-            </Link>
+          <a
+					href="https://github.com/sstevens22"
+					target="_blank"
+					rel="blank"
+          class='social-icon-link'
+				>
+          <i class='fab fa-github' />
+				</a>
+        <a
+					href="https://www.instagram.com/shellnshenanigans/"
+					target="_blank"
+					rel="blank"
+          class='social-icon-link'
+				>
+          <i class='fab fa-instagram' />
+				</a>
+        <a
+					href="https://www.youtube.com/"
+					target="_blank"
+					rel="blank"
+          class='social-icon-link'
+				>
+          <i class='fab fa-youtube' />
+				</a>
+        <a
+					href="https://twitter.com/home"
+					target="_blank"
+					rel="blank"
+          class='social-icon-link'
+				>
+          <i class='fab fa-twitter' />
+				</a>
+        <a
+					href="https://www.linkedin.com/in/sheldon-stevens-229858124/"
+					target="_blank"
+					rel="blank"
+          class='social-icon-link'
+				>
+          <i class='fab fa-linkedin' />
+				</a>
           </div>
         </div>
       </section>
