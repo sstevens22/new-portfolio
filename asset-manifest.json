@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/new-portfolio/static/css/main.71e33355.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.96d89cc4.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.96d89cc4.chunk.js.map",
-    "runtime-main.js": "/new-portfolio/static/js/runtime-main.c87c5ba5.js",
-    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.c87c5ba5.js.map",
-    "static/js/2.66d72dda.chunk.js": "/new-portfolio/static/js/2.66d72dda.chunk.js",
-    "static/js/2.66d72dda.chunk.js.map": "/new-portfolio/static/js/2.66d72dda.chunk.js.map",
-    "index.html": "/new-portfolio/index.html",
-    "static/css/main.71e33355.chunk.css.map": "/new-portfolio/static/css/main.71e33355.chunk.css.map",
-    "static/js/2.66d72dda.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.66d72dda.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/new-portfolio/static/media/Resume.aa87632d.pdf",
-    "static/media/clickarrow.467ac748.png": "/new-portfolio/static/media/clickarrow.467ac748.png",
-    "static/media/App.css": "/new-portfolio/static/media/resumenewback.61e3e188.jpg",
-    "static/media/Cards.css": "/new-portfolio/static/media/portfolio.46f625a3.jpg"
+    "main.css": "/static/css/main.91e80c43.chunk.css",
+    "main.js": "/static/js/main.96d89cc4.chunk.js",
+    "main.js.map": "/static/js/main.96d89cc4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a365ca5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a365ca5c.js.map",
+    "static/js/2.66d72dda.chunk.js": "/static/js/2.66d72dda.chunk.js",
+    "static/js/2.66d72dda.chunk.js.map": "/static/js/2.66d72dda.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91e80c43.chunk.css.map": "/static/css/main.91e80c43.chunk.css.map",
+    "static/js/2.66d72dda.chunk.js.LICENSE.txt": "/static/js/2.66d72dda.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.aa87632d.pdf",
+    "static/media/clickarrow.467ac748.png": "/static/media/clickarrow.467ac748.png",
+    "static/media/App.css": "/static/media/resumenewback.61e3e188.jpg",
+    "static/media/Cards.css": "/static/media/portfolio.46f625a3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c87c5ba5.js",
+    "static/js/runtime-main.a365ca5c.js",
     "static/js/2.66d72dda.chunk.js",
-    "static/css/main.71e33355.chunk.css",
+    "static/css/main.91e80c43.chunk.css",
     "static/js/main.96d89cc4.chunk.js"
   ]
 }
